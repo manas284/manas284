@@ -7,7 +7,6 @@
 
 - 🔨 I build **full-stack web apps** with clean architecture & robust APIs.
 - 🧠 Currently exploring: **System Design, Scalable Backend Services**
-- 🚀 Building: [Farmley](https://github.com/manas284/lnd) – a full-featured E-commerce platform
 - 👨‍💻 I write backend code in **Java** and **Node.js**, and build UIs with **React**.
 - 💼 Available for freelance and full-time backend-focused roles.
 
